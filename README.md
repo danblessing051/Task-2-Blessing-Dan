@@ -23,7 +23,7 @@ and distributions.
 - Calculated basic statistics (mean, median, count)
 - Identified trends and outliers
 - Summarized key observations
-- Built visualizations using Python and Excel
+- Built visualizations using Python 
 
 ---
 
