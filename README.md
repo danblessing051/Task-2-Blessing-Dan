@@ -92,7 +92,7 @@ and distributions.
 
 ---
 
- 💡 Key Insight
+ 💡 Key Insight-------
 TotalPrice is right-skewed meaning the Mean ($1,054) 
 is higher than the Median ($824). A 41.4% combined 
 cancellation and return rate is a critical business 
@@ -112,7 +112,7 @@ Batch: 2026
  📞 Contact
 - 📧 Email: danblessing051@gmail.com
 - 💼 LinkedIn: linkedin.com/in/yourprofile
-- ⚡ GitHub: 
+- ⚡ GitHub: https://github.com/danblessing051/Task-2-Blessing-Dan.git
 
 ---
 
